@@ -15,7 +15,6 @@ applied to a query in your DB
 - Prepare  an  example  query  with  a  subquery  to 
 demonstrate  how  to  extract  data  from  your  DB  for 
 analysis 
-
 - In  your  database,  create  a  stored  procedure 
 and demonstrate how it runs
 - In  your  database,  create  a  trigger  and 
@@ -31,4 +30,4 @@ having  to  demonstrate  how  to  extract  data
 from your DB for analysis
 
 # Deployment
-You can open the CFG_GYM_Membership_Mangement.sql file on the SQL Workbench and run the whole script. The code is commented according to the requirement bullet points above to make it more clear. ER_CFG_GYM_Membership_Management.mwb file is the ER Diagram of the database, you can see the table contents and their relations by opening this file on the SQL Workbench.
+You can open the CFG_GYM_Mangement.sql file on the SQL Workbench and run the whole script. The code is commented according to the requirement bullet points above to make it more clear. ER_CFG_GYM_Management.mwb file is the ER Diagram of the database, you can see the table contents and their relations by opening this file on the SQL Workbench.
